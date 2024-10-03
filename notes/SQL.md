@@ -87,3 +87,19 @@ Note:
 
 * [Problem link](https://leetcode.com/problems/confirmation-rate/description/?envType=study-plan-v2&envId=top-sql-50)
 * ✅[my PG-solution](../sql/1934-ConfirmationRate.pgsql)
+
+## 620 - Not Boring Movies
+
+* [Problem link](https://leetcode.com/problems/not-boring-movies/description/?envType=study-plan-v2&envId=top-sql-50)
+* ✅[my PG-solution](../sql/620-NotBoringMovies.pgsql)
+## 620 - Not Boring Movies
+
+## 1251 - Average Selling Price
+
+* [Problem link](https://leetcode.com/problems/average-selling-price/description/?envType=study-plan-v2&envId=top-sql-50)
+* ✅[my PG-solution](../sql/1251-AverageSellingPrice.pgsql)
+
+## 1075 - Project Employees I
+
+* [Problem link](https://leetcode.com/problems/project-employees-i/description/?envType=study-plan-v2&envId=top-sql-50)
+* ✅[my PG-solution](../sql/1075-ProjectEmployees1.pgsql)
